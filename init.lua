@@ -1,0 +1,6 @@
+require("settings")
+require("plugins")
+require("maps")
+require("catppuccin")
+require("nvim_tree")
+require("lua_line")
